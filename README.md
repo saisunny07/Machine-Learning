@@ -1,3 +1,3 @@
 MACHINE LEARNING
 
-![alt text]Image
+![alt text](Image.png)
